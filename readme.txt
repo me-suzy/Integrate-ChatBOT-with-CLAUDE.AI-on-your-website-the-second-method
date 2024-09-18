@@ -1,16 +1,24 @@
-# Integrate ChatBOT with CLAUDE.AI on your website (Step by step)
+# Integrate ChatBOT with CLAUDE.AI on your website (Step by step) - Second Method
 
 ChatBOT-ul va citi urmatoarele taguri din fisierul html:
 
     <title>(.*?)</title>
+    
     <link rel="canonical" href="(.?)" />
+    
     <meta name="description" content="(.?)">
+    
     <h1>(.?)</h1>
+    
     <h1 class="custom-h1" itemprop="name">(.?)</h1>
+    
     <h2 class="text_obisnuit2">(.?)</h2>
+    
     <h3 class="text_obisnuit2">(.?)</h3>
-	<p class="text_obisnuit">(.?)</p>
-	<p class="text_obisnuit"><span class="text_obisnuit2">(.*?)</span> (.*?)</p>
+    
+    <p class="text_obisnuit">(.?)</p>
+   
+    <p class="text_obisnuit"><span class="text_obisnuit2">(.*?)</span> (.*?)</p>
 
 
 # 1. Instalați Node.js:
