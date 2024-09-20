@@ -16,9 +16,9 @@ ChatBOT-ul va citi urmatoarele taguri din fisierul html:
     
     <h3 class="text_obisnuit2">(.?)</h3>
     
-	  <p class="text_obisnuit">(.?)</p>
+    <p class="text_obisnuit">(.?)</p>
    
-	  <p class="text_obisnuit"><span class="text_obisnuit2">(.*?)</span> (.*?)</p>
+    <p class="text_obisnuit"><span class="text_obisnuit2">(.*?)</span> (.*?)</p>
 
 
 # 1. Instalați Node.js:
